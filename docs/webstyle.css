@@ -14,6 +14,62 @@ font-family: "Times New Roman", Times, serif;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   grid-gap: 20px;
 }
+
+.aangindex {
+display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 15px;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.kataraindex {
+display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 15px;
+  padding: 20px;
+  border-radius: 15px;
+}
+.sokkaindex {
+display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 15px;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.irohindex {
+display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 15px;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.tophindex {
+display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 15px;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.azulaindex {
+display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 15px;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.zukoindex {
+display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 15px;
+  padding: 20px;
+  border-radius: 15px;
+}
+
 .characterpic {
   padding: 15px;
 	font-family: "Times New Roman", Times, serif;
