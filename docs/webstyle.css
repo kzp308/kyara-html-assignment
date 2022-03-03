@@ -44,7 +44,9 @@ font-family: "Times New Roman", Times, serif;
   border: 1px solid;
 }
 
-
+.aangpic {
+    width: 150px;
+}
 
 ol {list-style-type: lower-alpha;
 padding: 5em;
