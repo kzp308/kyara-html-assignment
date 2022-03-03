@@ -34,7 +34,7 @@ font-family: "Times New Roman", Times, serif;
 	font-family: "Times New Roman", Times, serif;
 }
 .characterpic figcaption {
-  font-size: .9rem;
+  font-size: 2rem;
   line-height: 1.1rem;
   margin-top: 3px;
 }
@@ -42,8 +42,6 @@ font-family: "Times New Roman", Times, serif;
   display: block;
   border: 1px solid;
 }
-
-
 
 
 
