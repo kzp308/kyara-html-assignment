@@ -7,6 +7,32 @@ color: indigo;
 font-family: "Times New Roman", Times, serif;
 }
 
+/*Photo stuff*/
+.characterphotos {
+  grid-area: photos;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 20px;
+}
+.characterpic {
+  padding: 15px;
+  border: 1px solid #E9D68A;
+  background-color: #530B0B;
+  color: #EEEEEE;
+	font-family: "Times New Roman", Times, serif;
+}
+.characterpic figcaption {
+  font-size: .9rem;
+  line-height: 1.1rem;
+  margin-top: 3px;
+}
+.characterpic img {
+  display: block;
+  border: 1px solid #41011F;
+}
+
+
+
 
 
 ol {list-style-type: lower-alpha;
