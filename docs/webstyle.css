@@ -45,7 +45,14 @@ font-family: "Times New Roman", Times, serif;
 }
 
 .aangpic {
-    width: 150px;
+    
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 ol {list-style-type: lower-alpha;
